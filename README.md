@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepankarsandy
 - 👀 I’m interested in new tech in general.
-- 🌱 I’m currently learning web app deployment.
+- 🌱 I currently work as software engineer and do web developement.
 - 📫 Reach me at https://deepankar.dev
 
 <!---
