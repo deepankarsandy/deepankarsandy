@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deepankarsandy
 - 👀 I’m interested in new tech in general.
 - 🌱 I currently work as software engineer and do web developement.
-- 📫 Reach me at https://deepankar.dev
 
 <!---
 deepankarsandy/deepankarsandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
